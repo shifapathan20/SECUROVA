@@ -63,7 +63,7 @@ Enforces system decisions:
 - maintains operational logs  
 
 ---
-
+```
 ## 🔄 Operational Flow
 Entry Request
 ↓
@@ -80,7 +80,7 @@ Decision Layer
 Live Monitoring Loop
 ↓
 Exit Confirmation & Logging
-
+```
 
 ---
 
